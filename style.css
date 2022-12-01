@@ -395,35 +395,35 @@ ion-icon[name='color-filter-outline'] {
 }
 
 .web-studio {
-  background-image: url('../img/projects/web-studio.jpg');
+  background-image: url('img/projects/web-studio.jpg');
 }
 
 .hell-en {
-  background-image: url('../img/projects/hell-en.jpg');
+  background-image: url('img/projects/hell-en.jpg');
 }
 
 .logo-online-store {
-  background-image: url('../img/projects/logo-online-store.jpg');
+  background-image: url('img/projects/logo-online-store.jpg');
 }
 
 .kapusta {
-  background-image: url('../img/projects/kapusta.jpg');
+  background-image: url('img/projects/kapusta.jpg');
 }
 
 .movies {
-  background-image: url('../img/projects/movies.jpg');
+  background-image: url('img/projects/movies.jpg');
 }
 
 .todo {
-  background-image: url('../img/projects/todo.jpg');
+  background-image: url('img/projects/todo.jpg');
 }
 
 .calculator {
-  background-image: url('../img/projects/calculator.jpg');
+  background-image: url('img/projects/calculator.jpg');
 }
 
 .interactive-cv {
-  background-image: url('../img/projects/interactive-cv.jpg');
+  background-image: url('img/projects/interactive-cv.jpg');
 }
 
 .project .others {
