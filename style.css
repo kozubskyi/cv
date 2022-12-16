@@ -394,20 +394,12 @@ ion-icon[name='color-filter-outline'] {
   border: 1px solid var(--blue);
 }
 
-.web-studio {
-  background-image: url('img/projects/web-studio.jpg');
-}
-
-.hell-en {
-  background-image: url('img/projects/hell-en.jpg');
+.kapusta {
+  background-image: url('img/projects/kapusta.jpg');
 }
 
 .logo-online-store {
   background-image: url('img/projects/logo-online-store.jpg');
-}
-
-.kapusta {
-  background-image: url('img/projects/kapusta.jpg');
 }
 
 .movies {
@@ -422,12 +414,20 @@ ion-icon[name='color-filter-outline'] {
   background-image: url('img/projects/calculator.jpg');
 }
 
-.interactive-cv {
-  background-image: url('img/projects/interactive-cv.jpg');
-}
-
 .telegram-bot {
   background-image: url('img/projects/telegram-bot.jpg');
+}
+
+.web-studio {
+  background-image: url('img/projects/web-studio.jpg');
+}
+
+.hell-en {
+  background-image: url('img/projects/hell-en.jpg');
+}
+
+.interactive-cv {
+  background-image: url('img/projects/interactive-cv.jpg');
 }
 
 .project .others {
