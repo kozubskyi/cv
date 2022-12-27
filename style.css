@@ -414,8 +414,12 @@ ion-icon[name='color-filter-outline'] {
   background-image: url('img/projects/calculator.jpg');
 }
 
-.telegram-bot {
-  background-image: url('img/projects/telegram-bot.jpg');
+.compliments-bot {
+  background-image: url('img/projects/compliments-bot.jpg');
+}
+
+.teams-split-bot {
+  background-image: url('img/projects/teams-split-bot.jpg');
 }
 
 .web-studio {
