@@ -10,7 +10,7 @@ const pdfBtn = document.querySelector('.pdf-btn')
 const backdrop = document.querySelector('.backdrop')
 const backdropImg = backdrop.children[0]
 
-// setInterval(() => textCursor.classList.toggle('hidden'), 500);
+setInterval(() => textCursor.classList.toggle('hidden'), 500)
 
 function countAndSetAge() {
 	const dateOfBirth = dateOfBirthText.data.trim()

@@ -129,6 +129,14 @@ h2 {
 	position: relative;
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
+	line-height: 1.5;
+}
+
+h2 p {
+	margin: var(--indent-s) 0 0 0;
+	color: var(--light-grey);
+	font-size: 1rem;
 }
 
 .text-cursor {
@@ -586,9 +594,13 @@ ion-icon[name='color-filter-outline'] {
 	}
 
 	h2 {
-		font-size: 2.5rem;
+		font-size: 2.25rem;
 		margin-top: var(--indent-l);
 		justify-content: left;
+	}
+
+	h2 p {
+		font-size: var(--indent-l);
 	}
 
 	.cv-body {
