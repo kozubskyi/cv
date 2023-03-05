@@ -112,7 +112,6 @@ header {
 }
 
 .photo {
-	width: 80%;
 	min-width: 280px;
 	max-width: 280px;
 	border-radius: 50%;
