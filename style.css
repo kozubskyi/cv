@@ -170,19 +170,22 @@ section h3 + ul {
 	margin-top: var(--indent-s);
 }
 
+.personal-information li,
 .personal-information a,
 .contacts a {
 	display: flex;
-	align-items: flex-start;
+	align-items: center;
 }
 
-ion-icon {
-	font-size: 1.2em;
-}
-
-.personal-information ion-icon,
-.contacts ion-icon {
+.iconify {
 	margin-right: var(--indent-m);
+	/* font-size: 1.4rem; */
+	width: 20px;
+	height: 20px;
+}
+
+.personal-information .iconify,
+.contacts .iconify {
 	color: var(--blue);
 }
 
